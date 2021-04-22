@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StatisticsFormula", "StatisticsFormula\StatisticsFormula.pyproj", "{B9086E6D-3807-4E75-8DEA-6A7F19BED0B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9086E6D-3807-4E75-8DEA-6A7F19BED0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9086E6D-3807-4E75-8DEA-6A7F19BED0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5D9EEA-8CC1-4B11-A2D3-ECDA212416F4}
+	EndGlobalSection
+EndGlobal
